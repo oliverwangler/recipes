@@ -1,0 +1,1 @@
+will GitHub display all the commits I make locally or only the ones I actually push
